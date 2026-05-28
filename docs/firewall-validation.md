@@ -1,3 +1,8 @@
+# Validazione Firewall (Nmap)
+
+Scansione eseguita per verificare le porte aperte sul server.
+
+
 root@il-mio-server:~# nmap -sV -p- 207.154.205.28
 Starting Nmap 7.94SVN ( https://nmap.org ) at 2026-05-28 13:03 UTC
 Nmap scan report for il-mio-server (207.154.205.28)
